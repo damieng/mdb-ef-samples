@@ -1,0 +1,6 @@
+@MongoEFSample_HostAddress = http://localhost:5001
+
+GET {{MongoEFSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
